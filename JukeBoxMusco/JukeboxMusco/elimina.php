@@ -19,9 +19,16 @@ include 'connessione.php';
     <div class="grid-item"><a href="elimina.php" style="color: rgb(236, 100, 85);"><img src="icone/bin.png" ><br>Cancella cantante/canzone</a></div>
     <div class="grid-item"><a href="aggiorna.php"><img src="icone/refresh.png" ><br>Aggiorna cantante/canzone</a></div>
 </div>
-
-
+<div class="spazio"></div>
+<div class="cantante">
+<a href="eliminaCantante.php"> Elimina cantante</a>
 </div>
+<div class="spazio"></div>
+<div class="canzone">
+<a href="eliminaCanzone.php"> Elimina canzone</a>
+</div>
+<div class="spazio"></div>
+
 </body>
 </html>
 
